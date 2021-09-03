@@ -1,0 +1,81 @@
+
+body{
+margin: 0px;
+padding: 0px;
+background-image: url(./img/pexels-mikechie-esparagoza-1601774.jpg);
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+}
+
+.header{
+        background-color: transparent !important;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+}
+
+.main{
+    width: 100%;
+    height: 650px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.caja{
+    width: 400px;
+    height: 350px;
+    background-color: transparent !important;
+    text-decoration: none;
+    color: white;
+    text-align: center;
+    font-size: 25;
+}
+
+.Boton{
+    background:linear-gradient(to top,#E9FF33, #3339FF) ;
+    width: 320px;
+    margin-left: 50px;
+    margin-top: 30px;
+    border: 0px;
+    border-radius: 50px;
+    height: 55px;
+    cursor: pointer;
+    outline: none;
+    font-weight: bold;
+}
+.Boton a{
+    text-decoration: none;
+    color: red;
+    font-size: 30;
+}
+
+.body1{
+    margin: 0px;
+padding: 0px;
+background-image: url(./img/pexels-wendy-wei-1190297.jpg);
+background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 2900px;
+}
+.intro {
+    margin: 90px 30%;
+    background-color: var(--evening1);
+}
+.contenido {
+    color: white;
+    text-align: center;
+    font-size: 50px;
+    font-family: var(--fuente1);
+}
+.contenido1{
+    font-size: 30px;
+    font-family: var(--fuente1);
+    text-align: center;
+    color: white;
+}
